@@ -1,3 +1,16 @@
+# CSIT340-Dalapo-Portfolio
+
+This is a personal portfolio website built using React for the CSIT340 course. It showcases my recent work and explorations as a student developer in web application development. 
+
+## Featured Projects
+* **Dashboard Interface:** Updated UI components including settings and logout functionality.
+* **Urban Pods:** A business model and pitch presentation for a vertical hydroponics farming product.
+
+## Author
+**Dan Erik Fernandez Dalapo**
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
