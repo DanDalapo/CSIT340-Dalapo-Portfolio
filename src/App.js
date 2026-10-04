@@ -1,4 +1,4 @@
-import './App.css'
+import './App.css';
 
 function App() {
   return (
@@ -20,12 +20,13 @@ function App() {
         <section>
           <h3>Recent Projects</h3>
           <ul>
+            <li><strong>Dashboard Interface:</strong> Updated UI components including settings and logout functionality.</li>
             <li><strong>Urban Pods:</strong> Developed a business model and pitch presentation for a vertical hydroponics farming product.</li>
           </ul>
         </section>
       </main>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
